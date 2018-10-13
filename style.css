@@ -1,0 +1,18 @@
+body { margin: 500; padding: 500; }
+
+h1 { font-family: Helvetica; color: purple }
+
+h3 { font-family: cursive; }
+
+p { font-family: Helvetica; } 
+
+div { font-family: cursive; color: maroon; } 
+
+body { background-color: tan } 
+
+.capitalize { text-transform: capitalize; }
+
+.title { color: maroon; }
+
+#article-title {font-family: cursive; font-size: x-large; text-transform: uppercase; color: maroon; }
+
